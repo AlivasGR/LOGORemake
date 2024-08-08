@@ -1,0 +1,3 @@
+A version of the LOGO programming language developed in C++. The game was created as the main project of the undergraduate course CS-352 (Software Technologies: https://www.csd.uoc.gr/~hy352/).
+
+The team consisted of two members (Georgios Lydakis https://github.com/geomlyd and Anastasios Livanidis https://github.com/AlivasGR) and the work was more or less equally distributed. This repo is a public read-only copy of the original, created for showcasing examples of our work for CV purposes.
